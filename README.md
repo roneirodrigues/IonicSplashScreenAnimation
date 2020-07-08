@@ -1,0 +1,2 @@
+# IonicSplashScreenAnimation
+Ionic Splashscreen Animation
